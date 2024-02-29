@@ -39,6 +39,9 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 
 The app is deployed [here.](https://wordwave-one.vercel.app/)
 
+![image](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/69c9bff2-b252-4e8c-b85c-70bc2e6b80e0)
+
+
 ## 👩‍💻 Author:
 
 [Me😁](https://github.com/Sushmita-Ghosh)
