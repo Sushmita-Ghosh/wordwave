@@ -8,7 +8,7 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 - **Word Details:** Get the scoop on each word with vibrant images and delightful descriptions.
 - **Tailwind CSS Styling:** A visually appealing user interface that makes learning words a joy.
 
-## 🌟 What Makes WordWonder Special?
+## 🌟 What Makes WordWave Special?
 
 *   A delightful journey through the English alphabet.
 *   Engaging visuals and interesting word details.    
@@ -48,7 +48,7 @@ The app is deployed [here.](https://wordwave-one.vercel.app/)
 
 
 ----
-Enjoy the magic of words with WordWonder! 🎉✨
+Enjoy the magic of words with WordWave! 🎉✨
 
 
 
