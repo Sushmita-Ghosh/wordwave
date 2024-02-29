@@ -23,13 +23,14 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
    ```
 
 2. **Install Dependencies:**
-        ```bash
+   
+   ``` bash
         cd word-wave
         npm install
       ```
 
 3. **Run the application:**
-     ``` bash
+     ```bash
          npm run dev
    ```
 
