@@ -19,16 +19,19 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/word-wonder.git```
+   git clone https://github.com/your-username/word-wonder.git
+   ```
 
 2. **Install Dependencies:**
-  ```bash
-  cd word-wave
-  npm install```
+        ```bash
+        cd word-wave
+        npm install
+      ```
 
 3. **Run the application:**
-  ``` bash
-      npm run dev ```
+     ``` bash
+         npm run dev
+   ```
 
 
 ## 📸 Screenshots:
