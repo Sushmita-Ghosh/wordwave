@@ -18,10 +18,10 @@ const Hero = () => {
         </p>
 
         {/* div section for buttons */}
-        <div className="pt-5 flex items-center gap-3">
+        <div className="py-5 flex items-center gap-3">
           <input
             type="text"
-            className="outline-none px-5 py-3 border border-gray-200 rounded-full focus:border focus:border-orange-500 "
+            className="outline-none px-5 py-3 border shadow-xl border-gray-200 rounded-full focus:border focus:border-orange-500 w-6/12 "
             placeholder="Enter a description"
           />
 
