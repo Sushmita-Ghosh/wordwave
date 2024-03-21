@@ -16,6 +16,7 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 
 ## 🚀 Getting Started
 
+
 1. **Clone the repository:**
 
    ```bash
@@ -39,7 +40,9 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 
 The app is deployed [here.](https://wordwave-one.vercel.app/)
 
-![image](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/69c9bff2-b252-4e8c-b85c-70bc2e6b80e0)
+![screencapture-localhost-5173-2024-03-20-21_30_43](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/df89d0c5-5b2d-4960-85e2-327a7d91b7f2)
+
+
 
 
 ## 👩‍💻 Author:
