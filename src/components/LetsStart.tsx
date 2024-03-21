@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useState } from "react";
 import Alphabet from "./Alphabet";
 import audio from "../assets/audio.gif";
@@ -7,6 +6,9 @@ import report from "../assets/report.gif";
 const LetsStart = () => {
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
   const [selectedWord, setSelectedWord] = useState<string | null>(null);
+
+  console.log(selectedLetter);
+  console.log(selectedWord);
 
   const selectLetter = (letter: string) => {
     setSelectedLetter(letter);
