@@ -1,4 +1,4 @@
-![screencapture-localhost-5173-2024-03-20-21_30_43](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/7eaa186d-b40d-4381-9b10-750e0af98d6e)# 🌈 WordWave
+# 🌈 WordWave
 
 Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new words, and dive into a world of linguistic delight!
 
