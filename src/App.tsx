@@ -3,6 +3,7 @@
 // import Words from "./components/Words";
 // import WordDetails from "./components/WordDetails";
 // import wordsData from "./data/wordsData";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import HowItWorks from "./components/HowItWorks";
@@ -30,6 +31,7 @@ const App = () => {
       <Hero />
       <HowItWorks />
       <LetsStart />
+      <Footer />
       {/* <div className="w-full mt-8">
         <div className="shadow-xl bg-white rounded-xl">
           {selectedLetter && (
