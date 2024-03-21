@@ -5,6 +5,7 @@
 // import wordsData from "./data/wordsData";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import HowItWorks from "./components/HowItWorks";
 
 const App = () => {
   // const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
@@ -26,7 +27,7 @@ const App = () => {
     <div className=" min-h-screen  ">
       <Header />
       <Hero />
-
+      <HowItWorks />
       {/* <Alphabet selectLetter={selectLetter} /> */}
       {/* <div className="w-full mt-8">
         <div className="shadow-xl bg-white rounded-xl">
