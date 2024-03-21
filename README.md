@@ -1,4 +1,4 @@
-# 🌈 WordWave
+![screencapture-localhost-5173-2024-03-20-21_30_43](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/7eaa186d-b40d-4381-9b10-750e0af98d6e)# 🌈 WordWave
 
 Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new words, and dive into a world of linguistic delight!
 
@@ -40,7 +40,9 @@ Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new 
 
 The app is deployed [here.](https://wordwave-one.vercel.app/)
 
-![screencapture-localhost-5173-2024-03-20-19_39_57](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/4b5b8f37-4c3b-4da3-bbc3-4497083ff9ad)
+![screencapture-localhost-5173-2024-03-20-21_30_43](https://github.com/Sushmita-Ghosh/wordwave/assets/82622059/df89d0c5-5b2d-4960-85e2-327a7d91b7f2)
+
+
 
 
 ## 👩‍💻 Author:
