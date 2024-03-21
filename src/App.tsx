@@ -6,6 +6,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import HowItWorks from "./components/HowItWorks";
+import LetsStart from "./components/LetsStart";
 
 const App = () => {
   // const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
@@ -28,7 +29,7 @@ const App = () => {
       <Header />
       <Hero />
       <HowItWorks />
-      {/* <Alphabet selectLetter={selectLetter} /> */}
+      <LetsStart />
       {/* <div className="w-full mt-8">
         <div className="shadow-xl bg-white rounded-xl">
           {selectedLetter && (
