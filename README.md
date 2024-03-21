@@ -1,6 +1,7 @@
 # 🌈 WordWave
 
 Discover the magic of words with WordWave! 🚀 Explore the alphabet, learn new words, and dive into a world of linguistic delight!
+It's an ongoing project.
 
 ## 📚 Features
 
